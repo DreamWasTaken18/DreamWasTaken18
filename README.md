@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @DreamWasTaken18
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me you can email me (yamaArrow15@gmail.com or villainarrow557@gmail.com) or join my discord server 
+- 👋 Hi, I’m kuna
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning how to code on roblox/discord
+- 📫 How to reach me you can email menvillainarrow557@gmail.com
 
 <!---
 DreamWasTaken18/DreamWasTaken18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
